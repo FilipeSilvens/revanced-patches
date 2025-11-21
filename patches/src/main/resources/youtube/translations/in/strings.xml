@@ -132,7 +132,7 @@ Keterbatasan: Tombol Kembali pada bilah alat mungkin tidak berfungsi."</string>
     <string name="revanced_debug_toast_on_error_summary_off">Pesan timbul tidak ditampilkan jika terjadi kesalahan</string>
     <string name="revanced_debug_toast_on_error_summary_on">Pesan timbul ditampilkan jika terjadi kesalahan</string>
     <string name="revanced_debug_toast_on_error_title">Tampilkan pesan timbul pada kesalahan ReVanced</string>
-    <string name="revanced_disable_auto_audio_tracks_summary_off">Trek audio otomatis yang dipaksakan diaktifkan.</string>
+    <string name="revanced_disable_auto_audio_tracks_summary_off">"Trek audio otomatis yang dipaksakan diaktifkan."</string>
     <string name="revanced_disable_auto_audio_tracks_summary_on">Trek audio otomatis yang dipaksakan dinonaktifkan.</string>
     <string name="revanced_disable_auto_audio_tracks_title">Nonaktifkan trek audio otomatis yang dipaksakan</string>
     <string name="revanced_disable_auto_captions_summary_off">Teks otomatis diaktifkan.</string>
@@ -302,6 +302,9 @@ Toko"</string>
     <string name="revanced_hide_expandable_shelf_summary_off">Rak yang dapat diperluas ditampilkan.</string>
     <string name="revanced_hide_expandable_shelf_summary_on">Rak yang dapat diperluas disembunyikan.</string>
     <string name="revanced_hide_expandable_shelf_title">Sembunyikan rak yang dapat diperluas</string>
+    <string name="revanced_hide_featured_section_summary_off">Bagian konten unggulan ditampilkan</string>
+    <string name="revanced_hide_featured_section_summary_on">Bagian konten unggulan disembunyikan</string>
+    <string name="revanced_hide_featured_section_title">Sembunyikan Konten Unggulan</string>
     <string name="revanced_hide_feed_captions_button_off">Tombol teks ditampilkan.</string>
     <string name="revanced_hide_feed_captions_button_on">Tombol teks disembunyikan.</string>
     <string name="revanced_hide_feed_captions_button_title">Sembunyikan tombol Teks</string>
@@ -331,9 +334,15 @@ Toko"</string>
     <string name="revanced_hide_get_premium_summary_off">Promosi YouTube Premium ditunjukkan.</string>
     <string name="revanced_hide_get_premium_summary_on">Promosi YouTube Premium disembunyikan.</string>
     <string name="revanced_hide_get_premium_title">Sembunyikan promosi YouTube Premium</string>
+    <string name="revanced_hide_how_this_was_made_section_summary_off">Bagian Cara konten ini dibuat ditampilkan</string>
+    <string name="revanced_hide_how_this_was_made_section_summary_on">Bagian Cara konten ini dibuat disembunyikan</string>
+    <string name="revanced_hide_how_this_was_made_section_title">Sembunyikan \'Cara konten ini dibuat\'</string>
     <string name="revanced_hide_hype_button_summary_off">Tombol Hype ditampilkan</string>
     <string name="revanced_hide_hype_button_summary_on">Tombol Hype disembunyikan</string>
     <string name="revanced_hide_hype_button_title">Sembunyikan Hype</string>
+    <string name="revanced_hide_hype_points_summary_off">Poin Hype ditampilkan</string>
+    <string name="revanced_hide_hype_points_summary_on">Poin Hype disembunyikan</string>
+    <string name="revanced_hide_hype_points_title">Sembunyikan Poin Hype</string>
     <string name="revanced_hide_image_shelf_summary_off">Rak gambar ditamoilkan.</string>
     <string name="revanced_hide_image_shelf_summary_on">Rak gambar disembunyikan.</string>
     <string name="revanced_hide_image_shelf_title">Sembunyikan rak gambar</string>
@@ -988,7 +997,7 @@ Sudah ada"</string>
     <string name="revanced_settings_import">Impor</string>
     <string name="revanced_settings_import_copy">Salin</string>
     <string name="revanced_settings_import_reset">Pengaturan ReVanced diatur ke bawaan</string>
-    <string name="revanced_settings_import_success">Mengimpor setelan %d</string>
+    <string name="revanced_settings_import_success">%d Setelan terimpor</string>
     <string name="revanced_settings_reset">Atur ulang</string>
     <string name="revanced_settings_reset_color">Atur ulang warna</string>
     <string name="revanced_settings_search_clear_history">Hapus riwayat pencarian</string>
@@ -1084,9 +1093,9 @@ Sesuaikan kecerahan dengan mengusap secara vertikal pada sisi kiri layar"</strin
 Menyesuaikan volume dengan mengusap secara vertikal di sisi kanan layar"</string>
     <string name="revanced_swipe_volume_title">Aktifkan gerakan volume</string>
     <string name="revanced_switch_create_with_notifications_button_summary_off">Tombol Buat tidak bertukar posisi dengan tombol Pemberitahuan.</string>
-    <string name="revanced_switch_create_with_notifications_button_summary_on">"Tombol Buat ditukar dengan tombol Notifikasi.
+    <string name="revanced_switch_create_with_notifications_button_summary_on">"Tombol buat diganti dengan tombol Notifikasi
 
-Catatan: Mengaktifkan ini juga secara paksa menyembunyikan iklan video."</string>
+Catatan: Mengaktifkan ini juga akan memaksa menyembunyikan iklan video"</string>
     <string name="revanced_switch_create_with_notifications_button_title">Tukar tombol buat dan pemberitahuan</string>
     <string name="revanced_switch_create_with_notifications_button_user_dialog_message">"Menonaktifkan setelan ini juga akan menonaktifkan pemblokiran iklan di Shorts.
 

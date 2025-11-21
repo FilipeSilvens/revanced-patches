@@ -233,7 +233,9 @@ Limitation: Back button on the toolbar may not work."</string>
     <string name="revanced_disable_ambient_mode_summary_on">Ambient mode is disabled.</string>
     <string name="revanced_disable_ambient_mode_title">Disable Ambient mode</string>
     <string name="revanced_disable_auto_audio_tracks_not_available">To use this feature, change \'Default client (Spoof streaming data)\' to TV, TV Simply or iOS TV.</string>
-    <string name="revanced_disable_auto_audio_tracks_summary_off">Forced auto audio tracks are enabled.</string>
+    <string name="revanced_disable_auto_audio_tracks_summary_off">"Forced auto audio tracks are enabled.
+
+Info: In some accounts, the original audio track is used."</string>
     <string name="revanced_disable_auto_audio_tracks_summary_on">Forced auto audio tracks are disabled.</string>
     <string name="revanced_disable_auto_audio_tracks_summary_on_disclaimer">"Forced auto audio tracks are disabled.
 
@@ -528,6 +530,11 @@ This depends on what response the app receives from the server.
 If the 'Playback' setting is broken, turning on this setting may resolve the issue.
 
 If the 'Playback' setting is still broken even after enabling or disabling this setting, then you should clear the app data."</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_summary_off">Tap and hold speed may sometimes be activated even if the user does not tap and hold.</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_summary_on">"Tap and hold speed is only activated when the user taps and holds.
+
+Known issue: Sometimes the swipe overlay appears before switching to fullscreen mode."</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_title">Fix swipe controls tap and hold speed</string>
     <string name="revanced_fullscreen_ads_closed_toast">Fullscreen ads are closed.</string>
     <string name="revanced_gemini_cancelled">Canceled</string>
     <string name="revanced_gemini_copy_success">Summary copied to clipboard.</string>
@@ -595,8 +602,8 @@ Info:
     <string name="revanced_hide_ask_button_summary_off">Ask button is shown.</string>
     <string name="revanced_hide_ask_button_summary_on">Ask button is hidden.</string>
     <string name="revanced_hide_ask_button_title">Hide Ask button</string>
-    <string name="revanced_hide_ask_section_summary_off">Ask section is shown</string>
-    <string name="revanced_hide_ask_section_summary_on">Ask section is hidden</string>
+    <string name="revanced_hide_ask_section_summary_off">Ask section is shown.</string>
+    <string name="revanced_hide_ask_section_summary_on">Ask section is hidden.</string>
     <string name="revanced_hide_ask_section_title">Hide Ask section</string>
     <string name="revanced_hide_attributes_section_summary_off">Featured places, Games, Music, and People mentioned sections are shown.</string>
     <string name="revanced_hide_attributes_section_summary_on">Featured places, Games, Music, and People mentioned sections are hidden.</string>
@@ -708,9 +715,9 @@ Limitation: Some highlighted search links that do not have a default text style 
     <string name="revanced_hide_community_posts_subscriptions_summary_off">Shown in Subscriptions feed.</string>
     <string name="revanced_hide_community_posts_subscriptions_summary_on">Hidden in Subscriptions feed.</string>
     <string name="revanced_hide_community_posts_subscriptions_title">Hide in Subscriptions feed</string>
-    <string name="revanced_hide_contents_section_summary_off">How this content was made section is shown.</string>
-    <string name="revanced_hide_contents_section_summary_on">How this content was made section is hidden.</string>
-    <string name="revanced_hide_contents_section_title">Hide How this content was made section</string>
+    <string name="revanced_hide_creator_section_summary_off">Creator section is shown.</string>
+    <string name="revanced_hide_creator_section_summary_on">Creator section is hidden.</string>
+    <string name="revanced_hide_creator_section_title">Hide Creator section</string>
     <string name="revanced_hide_creator_store_shelf_summary_off">Creator store shelf under videos is shown.</string>
     <string name="revanced_hide_creator_store_shelf_summary_on">Creator store shelf under videos is hidden.</string>
     <string name="revanced_hide_creator_store_shelf_title">Hide creator store shelf</string>
@@ -741,6 +748,12 @@ Settings → Autoplay / Playback → Autoplay next video"</string>
     <string name="revanced_hide_expandable_shelf_summary_off">Expandable shelves are shown.</string>
     <string name="revanced_hide_expandable_shelf_summary_on">Expandable shelves are hidden.</string>
     <string name="revanced_hide_expandable_shelf_title">Hide expandable shelves</string>
+    <string name="revanced_hide_explore_podcast_section_summary_off">Explore the podcast section is shown.</string>
+    <string name="revanced_hide_explore_podcast_section_summary_on">Explore the podcast section is hidden.</string>
+    <string name="revanced_hide_explore_podcast_section_title">Hide Explore the podcast section</string>
+    <string name="revanced_hide_featured_section_summary_off">Featured content section in Creator section is shown.</string>
+    <string name="revanced_hide_featured_section_summary_on">Featured content section in Creator section is hidden.</string>
+    <string name="revanced_hide_featured_section_title">Hide Featured content section</string>
     <string name="revanced_hide_feed_captions_button_off">Captions button is shown.</string>
     <string name="revanced_hide_feed_captions_button_on">Captions button is hidden.</string>
     <string name="revanced_hide_feed_captions_button_title">Hide Captions button</string>
@@ -776,9 +789,15 @@ Settings → Autoplay / Playback → Autoplay next video"</string>
     <string name="revanced_hide_handle_summary_off">Handle is shown.</string>
     <string name="revanced_hide_handle_summary_on">Handle is hidden.</string>
     <string name="revanced_hide_handle_title">Hide handle</string>
+    <string name="revanced_hide_how_this_was_made_section_summary_off">How this content was made section is shown.</string>
+    <string name="revanced_hide_how_this_was_made_section_summary_on">How this content was made section is hidden.</string>
+    <string name="revanced_hide_how_this_was_made_section_title">Hide How this content was made section</string>
     <string name="revanced_hide_hype_button_summary_off">Hype button is shown.</string>
     <string name="revanced_hide_hype_button_summary_on">Hype button is hidden.</string>
     <string name="revanced_hide_hype_button_title">Hide Hype button</string>
+    <string name="revanced_hide_hype_points_section_summary_off">Hype points section is shown.</string>
+    <string name="revanced_hide_hype_points_section_summary_on">Hype points section is hidden.</string>
+    <string name="revanced_hide_hype_points_section_title">Hide Hype points section</string>
     <string name="revanced_hide_hype_points_summary_off">Hype points are shown.</string>
     <string name="revanced_hide_hype_points_summary_on">Hype points are hidden.</string>
     <string name="revanced_hide_hype_points_title">Hide Hype points</string>
@@ -1321,6 +1340,9 @@ Side effect: Official headers in search results will be hidden."</string>
     <string name="revanced_hide_stop_ads_button_summary_off">Stop ads button is shown.</string>
     <string name="revanced_hide_stop_ads_button_summary_on">Stop ads button is hidden.</string>
     <string name="revanced_hide_stop_ads_button_title">Hide Stop ads</string>
+    <string name="revanced_hide_subscribe_button_summary_off">Subscribe button in Creator section is shown.</string>
+    <string name="revanced_hide_subscribe_button_summary_on">Subscribe button in Creator section is hidden.</string>
+    <string name="revanced_hide_subscribe_button_title">Hide Subscribe button</string>
     <string name="revanced_hide_subscribed_channels_bar_summary_off">Subscribed channels bar is shown.</string>
     <string name="revanced_hide_subscribed_channels_bar_summary_on">Subscribed channels bar is hidden.</string>
     <string name="revanced_hide_subscribed_channels_bar_title">Hide subscribed channels bar</string>
@@ -1351,6 +1373,11 @@ Side effect: Official headers in search results will be hidden."</string>
     <string name="revanced_hide_toolbar_notification_button_summary_off">Notifications button is shown.</string>
     <string name="revanced_hide_toolbar_notification_button_summary_on">Notifications button is hidden.</string>
     <string name="revanced_hide_toolbar_notification_button_title">Hide Notifications button</string>
+    <string name="revanced_hide_toolbar_search_button_summary_off">Search button is shown.</string>
+    <string name="revanced_hide_toolbar_search_button_summary_on">"Search button is hidden.
+
+This setting may not work if the wide search bar is enabled."</string>
+    <string name="revanced_hide_toolbar_search_button_title">Hide Search button</string>
     <string name="revanced_hide_transcript_section_summary_off">Transcript section is shown.</string>
     <string name="revanced_hide_transcript_section_summary_on">Transcript section is hidden.</string>
     <string name="revanced_hide_transcript_section_title">Hide Transcript section</string>
@@ -1899,6 +1926,13 @@ This does not bypass the age restriction. It just accepts it automatically."</st
     <string name="revanced_replace_channel_handle_summary_off">Channel handle is used.</string>
     <string name="revanced_replace_channel_handle_summary_on">Channel name is used.</string>
     <string name="revanced_replace_channel_handle_title">Replace channel handle</string>
+    <string name="revanced_replace_navigation_button_summary">Replaces the navigation button with the Search button.</string>
+    <string name="revanced_replace_navigation_button_target_entry_home">Home</string>
+    <string name="revanced_replace_navigation_button_target_entry_notifications">Notifications</string>
+    <string name="revanced_replace_navigation_button_target_entry_shorts">Shorts</string>
+    <string name="revanced_replace_navigation_button_target_entry_subscriptions">Subscriptions</string>
+    <string name="revanced_replace_navigation_button_target_title">Replace navigation button</string>
+    <string name="revanced_replace_navigation_button_title">Replace navigation button</string>
     <string name="revanced_replace_time_stamp_action_summary_off">Tap to show the remaining time.</string>
     <string name="revanced_replace_time_stamp_action_summary_on">Tap to open playback speed or video quality flyout menu.</string>
     <string name="revanced_replace_time_stamp_action_title">Replace timestamp action</string>
@@ -2338,6 +2372,7 @@ Limitation: Video title disappears when clicked."</string>
     <string name="revanced_spoof_app_version_target_entry_19_28_42">19.28.42 - Restore old playlist header</string>
     <string name="revanced_spoof_app_version_target_entry_19_33_37">19.33.37 - Restore old playback speed flyout panel</string>
     <string name="revanced_spoof_app_version_target_entry_20_05_46">20.05.46 - Restore Transcript functionality</string>
+    <string name="revanced_spoof_app_version_target_entry_20_13_41">20.13.41 - Restore non collapsed video action bar</string>
     <string name="revanced_spoof_app_version_target_entry_title">Spoof app version target</string>
     <string name="revanced_spoof_app_version_target_invalid_toast">Invalid spoof app version: %s.</string>
     <string name="revanced_spoof_app_version_target_summary">Type the spoof app version target.</string>
@@ -2369,6 +2404,8 @@ Known issues:
 This feature is still in development, so it may break at any time due to server-side changes."</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_creator">"Android Studio
 <small>(Login required)</small>"</string>
+    <string name="revanced_spoof_streaming_data_client_entry_android_no_sdk">"Android
+<small>(No SDK)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_vr">"Android VR
 <small>(No Auth)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_vr_auth">"Android VR
@@ -2376,14 +2413,16 @@ This feature is still in development, so it may break at any time due to server-
     <string name="revanced_spoof_streaming_data_client_entry_ios_deprecated">"iOS
 <small>(Deprecated)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_ipados">"iPadOS
-<small>(Outdated, No Auth)</small>"</string>
+<small>(Outdated)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_mweb">"Mobile Web
-<small>(WIP, No Auth)</small>"</string>
+<small>(WIP)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_tv">TV</string>
+    <string name="revanced_spoof_streaming_data_client_entry_tv_legacy">"TV
+<small>(Legacy)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_tv_simply_no_potoken">"TV Simply
 <small>(No PoToken)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_visionos">"visionOS
-<small>(Unreleased, No Auth)</small>"</string>
+<small>(Unreleased)</small>"</string>
     <string name="revanced_spoof_streaming_data_default_client_title">Default client</string>
     <string name="revanced_spoof_streaming_data_failed_forbidden">Could not fetch any client streams.</string>
     <string name="revanced_spoof_streaming_data_failed_forbidden_suggestion">Try changing the default client to TV.</string>
@@ -2394,9 +2433,6 @@ This feature is still in development, so it may break at any time due to server-
 
 AVC has a maximum resolution of 1080p, Opus audio codec is not available, and video playback will use more internet data than VP9 or AV1."</string>
     <string name="revanced_spoof_streaming_data_message">If you experience any playback issues, enable \"Spoof streaming data\" in &lt;i&gt;&lt;u&gt;Settings &gt; %s &gt; Miscellaneous &gt; Spoof streaming data&lt;/u&gt;&lt;/i&gt;.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_not_available">To select a specific audio stream language, turn off \'Disable forced auto audio tracks\'.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_not_available_by_client">Default audio stream language selection is not available with %s.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_title">Default audio stream language</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_summary_off">Video codecs are prioritized.</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_summary_on">Video quality is prioritized.</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_title">Prioritize video quality</string>
@@ -2442,17 +2478,18 @@ Example 2:
 • Stable volume is not available.
 • Kids videos may not play when logged out or in incognito mode."</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_creator">"• Audio track menu is missing.
-• Disable forced auto audio tracks is not available.
+• Disable forced auto audio tracks may not be available.
 • Stable volume is not available.
 • Kids videos may not play when logged out or in incognito mode.
 • 1080p+, AV1, and HDR are not supported."</string>
+    <string name="revanced_spoof_streaming_data_side_effects_android_no_sdk">• Video may stop at 1:00, or may not be available in some regions.</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_unplugged">"• Audio track menu is missing.
 • Stable volume is not available."</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_vr">"• Audio track menu is missing.
 • Stable volume is not available.
 • Kids videos may not play when logged out or in incognito mode."</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_vr_auth">"• Audio track menu is missing.
-• Disable forced auto audio tracks is not available.
+• Disable forced auto audio tracks may not be available.
 • Stable volume is not available.
 • Kids videos may not play when logged out or in incognito mode."</string>
     <string name="revanced_spoof_streaming_data_side_effects_ios">• There may be playback issues (PoToken required).</string>
@@ -2653,6 +2690,8 @@ Adjust brightness by swiping vertically on the left side of the screen."</string
 
 Seek the video by swiping horizontally on the top half of the screen."</string>
     <string name="revanced_swipe_seek_title">Enable seek gesture</string>
+    <string name="revanced_swipe_speed_and_seek_delay_summary">The delay in milliseconds before a horizontal swipe is recognized. Increase this value if it interferes with the pinch-to-zoom gesture.</string>
+    <string name="revanced_swipe_speed_and_seek_delay_title">Speed and seek gestures delay</string>
     <string name="revanced_swipe_speed_distance_summary">The amount of pixels to swipe to change the video speed. Lower values make the speed change faster, higher values make it slower (1-1000).</string>
     <string name="revanced_swipe_speed_distance_title">Speed distance</string>
     <string name="revanced_swipe_speed_summary_off">Fullscreen speed swipe is disabled.</string>
@@ -2684,15 +2723,9 @@ Adjust volume by swiping vertically on the right side of the screen."</string>
 • Disabling this setting loads more ads from the server side.
 • You should disable this setting to make video ads visible."</string>
     <string name="revanced_switch_create_with_notifications_button_summary_off">Create button is not switched with Notifications button.</string>
-    <string name="revanced_switch_create_with_notifications_button_summary_on">"Create button is switched with Notifications button.
-
-Note: Enabling this also forcibly hides video ads."</string>
+    <string name="revanced_switch_create_with_notifications_button_summary_on">Create button is switched with Notifications button.</string>
     <string name="revanced_switch_create_with_notifications_button_title">Swap Create and Notifications buttons</string>
-    <string name="revanced_switch_create_with_notifications_button_user_dialog_message">"Disabling this might load more ads from the server.
-
-Also, ads will no longer be blocked in Shorts.
-
-If this setting do not take effect, try switching to Incognito mode."</string>
+    <string name="revanced_switch_create_with_notifications_button_user_dialog_message">If this setting do not take effect, try switching to Incognito mode.</string>
     <string name="revanced_theme_default">Stock</string>
     <string name="revanced_third_party_youtube_music_dialog_title">RVX Music</string>
     <string name="revanced_third_party_youtube_music_not_installed_dialog_title">Warning</string>

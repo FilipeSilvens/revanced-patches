@@ -233,13 +233,13 @@ Ograniczenie: Przycisk wstecz na pasku narzędzi może nie działać."</string>
     <string name="revanced_disable_ambient_mode_summary_on">Wyłączone</string>
     <string name="revanced_disable_ambient_mode_title">Oświetlenie kinowe</string>
     <string name="revanced_disable_auto_audio_tracks_not_available">Aby używać tej funkcji, zmień domyślnego klienta (oszukiwanie strumienia danych) na TV, Uproszczony TV lub iOS TV.</string>
-    <string name="revanced_disable_auto_audio_tracks_summary_off">Włączone</string>
+    <string name="revanced_disable_auto_audio_tracks_summary_off">"Włączone"</string>
     <string name="revanced_disable_auto_audio_tracks_summary_on">Wyłączone</string>
-    <string name="revanced_disable_auto_audio_tracks_summary_on_disclaimer">"Automatyczne wymuszanie ścieżki dźwiękowej jest wyłączone.
+    <string name="revanced_disable_auto_audio_tracks_summary_on_disclaimer">"Automatyczne wymuszanie ścieżki dźwiękowej jest wyłączone
 
 Może to nie działać u niektórych użytkowników, więc jeśli nie działa u ciebie, to:
-1. Idź do ustawień → RVX → Pozostałe → Oszukuj strumień danych, i użyj opcji 'Włącz klienta JavaScript'
-2. Idź do ustawień → RVX → Pozostałe → Oszukuj strumień danych, i zmień domyślnego klienta na 'TV' lub 'Uproszczony TV'"</string>
+1. Idź do ustawień - RVX - Pozostałe - Oszukuj strumień danych, i użyj opcji 'Włącz klienta JavaScript'
+2. Idź do ustawień - RVX - Pozostałe - Oszukuj strumień danych, i zmień domyślnego klienta na 'TV'"</string>
     <string name="revanced_disable_auto_audio_tracks_title">Automatyczne wymuszanie ścieżki dźwiękowej</string>
     <string name="revanced_disable_auto_captions_summary_off">Włączone</string>
     <string name="revanced_disable_auto_captions_summary_on">Wyłączone</string>
@@ -531,6 +531,11 @@ Jest to zależne od odpowiedzi, jaką aplikacja dostanie z serwera.
 Jeśli ustawienie 'Odtwarzanie' jest uszkodzone, włączenie tego ustawienia powinno rozwiązać problem.
 
 Jeśli nadal występują problemy z tym ustawieniem nawet po włączeniu/wyłączeniu tego ustawienia, należy wyczyścić dane aplikacji."</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_summary_off">Wyłączona</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_summary_on">"Włączona
+
+Znany problem: czasem nakładka prędkości odtwarzania pojawia się przed przełączeniem do trybu pełnoekranowego."</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_title">Naprawa sterowania prędkością odtwarzania przesunięciem</string>
     <string name="revanced_fullscreen_ads_closed_toast">Zamknięto pełnoreklamowe reklamy.</string>
     <string name="revanced_gemini_cancelled">Anulowane</string>
     <string name="revanced_gemini_copy_success">Podsumowanie skopiowane do schowka</string>
@@ -598,9 +603,9 @@ Informacje:
     <string name="revanced_hide_ask_button_summary_off">Widoczny</string>
     <string name="revanced_hide_ask_button_summary_on">Ukryty</string>
     <string name="revanced_hide_ask_button_title">Przycisk od zapytania</string>
-    <string name="revanced_hide_ask_section_summary_off">Sekcja Pytania jest widoczna</string>
-    <string name="revanced_hide_ask_section_summary_on">Sekcja Pytania jest ukryta</string>
-    <string name="revanced_hide_ask_section_title">Ukryj Pytanie</string>
+    <string name="revanced_hide_ask_section_summary_off">Widoczna</string>
+    <string name="revanced_hide_ask_section_summary_on">Ukryta</string>
+    <string name="revanced_hide_ask_section_title">Sekcja zapytania</string>
     <string name="revanced_hide_attributes_section_summary_off">Sekcje wyróżnionych miejsc, gier, muzyki i wyróżnionych ludzi są widoczne</string>
     <string name="revanced_hide_attributes_section_summary_on">Sekcje wyróżnionych miejsc, gier, muzyki i wyróżnionych ludzi są ukryte</string>
     <string name="revanced_hide_attributes_section_title">Sekcja atrybutów</string>
@@ -710,9 +715,9 @@ Ograniczenie: niektóre najciekawsze wyniki wyszukiwania w postaci linków, któ
     <string name="revanced_hide_community_posts_subscriptions_summary_off">Widoczne</string>
     <string name="revanced_hide_community_posts_subscriptions_summary_on">Ukryte</string>
     <string name="revanced_hide_community_posts_subscriptions_title">Na stronie subskrypcji</string>
-    <string name="revanced_hide_contents_section_summary_off">Widoczna</string>
-    <string name="revanced_hide_contents_section_summary_on">Ukryta</string>
-    <string name="revanced_hide_contents_section_title">Sekcja \'Jak powstały te treści\'</string>
+    <string name="revanced_hide_creator_section_summary_off">Widoczna</string>
+    <string name="revanced_hide_creator_section_summary_on">Ukryta</string>
+    <string name="revanced_hide_creator_section_title">Sekcja twórcy</string>
     <string name="revanced_hide_creator_store_shelf_summary_off">Widoczna</string>
     <string name="revanced_hide_creator_store_shelf_summary_on">Ukryta</string>
     <string name="revanced_hide_creator_store_shelf_title">Półka ze sklepem twórcy</string>
@@ -743,6 +748,12 @@ Ustawienia → Autoodtwarzanie/Odtwarzanie → Autoodtwarzanie następnego filmu
     <string name="revanced_hide_expandable_shelf_summary_off">Widoczne</string>
     <string name="revanced_hide_expandable_shelf_summary_on">Ukryte</string>
     <string name="revanced_hide_expandable_shelf_title">Rozszeralne półki</string>
+    <string name="revanced_hide_explore_podcast_section_summary_off">Widoczna</string>
+    <string name="revanced_hide_explore_podcast_section_summary_on">Ukryta</string>
+    <string name="revanced_hide_explore_podcast_section_title">Sekcja eksplorowania podcastu</string>
+    <string name="revanced_hide_featured_section_summary_off">Widoczne</string>
+    <string name="revanced_hide_featured_section_summary_on">Ukryte</string>
+    <string name="revanced_hide_featured_section_title">Wyróżnione treści</string>
     <string name="revanced_hide_feed_captions_button_off">Widoczny</string>
     <string name="revanced_hide_feed_captions_button_on">Ukryty</string>
     <string name="revanced_hide_feed_captions_button_title">Przycisk od napisów na stronie głównej</string>
@@ -778,21 +789,27 @@ Ustawienia → Autoodtwarzanie/Odtwarzanie → Autoodtwarzanie następnego filmu
     <string name="revanced_hide_handle_summary_off">Widoczne</string>
     <string name="revanced_hide_handle_summary_on">Ukryte</string>
     <string name="revanced_hide_handle_title">Nicki</string>
+    <string name="revanced_hide_how_this_was_made_section_summary_off">Widoczna</string>
+    <string name="revanced_hide_how_this_was_made_section_summary_on">Ukryta</string>
+    <string name="revanced_hide_how_this_was_made_section_title">Sekcja \'Jak powstały te treści\'</string>
     <string name="revanced_hide_hype_button_summary_off">Widoczny</string>
     <string name="revanced_hide_hype_button_summary_on">Ukryty</string>
     <string name="revanced_hide_hype_button_title">Przycisk od podbijania</string>
-    <string name="revanced_hide_hype_points_summary_off">Widoczne.</string>
-    <string name="revanced_hide_hype_points_summary_on">Ukryte.</string>
-    <string name="revanced_hide_hype_points_title">Punkty Hype</string>
+    <string name="revanced_hide_hype_points_section_summary_off">Widoczna</string>
+    <string name="revanced_hide_hype_points_section_summary_on">Ukryta</string>
+    <string name="revanced_hide_hype_points_section_title">Sekcja punktów za podbijanie</string>
+    <string name="revanced_hide_hype_points_summary_off">Punkty Hype są pokazane</string>
+    <string name="revanced_hide_hype_points_summary_on">Punkty Hype są ukryte</string>
+    <string name="revanced_hide_hype_points_title">Ukryj punkty Hype</string>
     <string name="revanced_hide_image_search_button_summary_off">Widoczny</string>
     <string name="revanced_hide_image_search_button_summary_on">Ukryty</string>
     <string name="revanced_hide_image_search_button_title">Przycisk od wyszukiwania po obrazie</string>
     <string name="revanced_hide_image_shelf_summary_off">Widoczne</string>
     <string name="revanced_hide_image_shelf_summary_on">Ukryte</string>
     <string name="revanced_hide_image_shelf_title">Półki z obrazkami</string>
-    <string name="revanced_hide_info_cards_section_summary_off">Widoczne</string>
-    <string name="revanced_hide_info_cards_section_summary_on">Ukryte</string>
-    <string name="revanced_hide_info_cards_section_title">Nazwy kanałów pod opisami</string>
+    <string name="revanced_hide_info_cards_section_summary_off">Sekcja kart informacyjnych jest widoczna</string>
+    <string name="revanced_hide_info_cards_section_summary_on">Sekcja kart informacyjnych jest ukryta</string>
+    <string name="revanced_hide_info_cards_section_title">Ukryj karty informacyjne</string>
     <string name="revanced_hide_info_cards_summary_off">Widoczne</string>
     <string name="revanced_hide_info_cards_summary_on">Ukryte</string>
     <string name="revanced_hide_info_cards_title">Karty z informacjami</string>
@@ -927,9 +944,8 @@ Słowa z wielkimi literami w środku muszą być wpisane z odpowiednią wielkoś
     <string name="revanced_hide_player_flyout_menu_audio_track_not_available">"Menu od ścieżki dźwiękowej jest ukryte:
 
 By wyświetlić menu od ścieżki dźwiękowej:
-1. Idź do ustawień → RVX → Pozostałe → Oszukuj strumień danych i użyj opcji 'Włącz klienta JavaScript'
-2. Idź do ustawień → RVX → Pozostałe → Oszukuj strumień danych i zmień domyślnego klienta na 'TV' lub 'Uproszczony TV'
-"</string>
+1. Idź do ustawień → RVX → Pozostałe → Oszukuj strumień danych, i użyj opcji 'Włącz klienta JavaScript'
+2. Idź do ustawień → RVX → Pozostałe → Oszukuj strumień danych, i zmień domyślnego klienta na 'TV'"</string>
     <string name="revanced_hide_player_flyout_menu_audio_track_summary_off">Widoczne</string>
     <string name="revanced_hide_player_flyout_menu_audio_track_summary_on">Ukryte</string>
     <string name="revanced_hide_player_flyout_menu_audio_track_title">Menu od ścieżki dźwiękowej</string>
@@ -1001,9 +1017,9 @@ Ograniczenie: wszystkie przyciski w odtwarzaczu mogą zostać ukryte po zakończ
     <string name="revanced_hide_playlist_button_summary_off">Widoczny</string>
     <string name="revanced_hide_playlist_button_summary_on">Ukryty</string>
     <string name="revanced_hide_playlist_button_title">Przycisk od zapisywania do playlisty</string>
-    <string name="revanced_hide_podcast_section_summary_off">Widoczne</string>
-    <string name="revanced_hide_podcast_section_summary_on">Ukryte</string>
-    <string name="revanced_hide_podcast_section_title">Sekcje eksplorowania podcastów</string>
+    <string name="revanced_hide_podcast_section_summary_off">Sekcja „Odkryj podcast” jest widoczna</string>
+    <string name="revanced_hide_podcast_section_summary_on">Sekcja „Odkryj podcast” jest ukryta</string>
+    <string name="revanced_hide_podcast_section_title">Ukryj „Odkryj podcast”</string>
     <string name="revanced_hide_preview_comment_off">Widoczne</string>
     <string name="revanced_hide_preview_comment_on">Ukryte</string>
     <string name="revanced_hide_preview_comment_title">Wyróżnione komentarze</string>
@@ -1323,6 +1339,9 @@ Efekt uboczny: półka z historią oglądania w zakładce Ty może być ukryta."
     <string name="revanced_hide_stop_ads_button_summary_off">Widoczny</string>
     <string name="revanced_hide_stop_ads_button_summary_on">Ukryty</string>
     <string name="revanced_hide_stop_ads_button_title">Przycisk od wstrzymania reklam</string>
+    <string name="revanced_hide_subscribe_button_summary_off">Widoczny</string>
+    <string name="revanced_hide_subscribe_button_summary_on">Ukryty</string>
+    <string name="revanced_hide_subscribe_button_title">Przycisk od subskrybowania w sekcji twórcy</string>
     <string name="revanced_hide_subscribed_channels_bar_summary_off">Widoczny</string>
     <string name="revanced_hide_subscribed_channels_bar_summary_on">Ukryty</string>
     <string name="revanced_hide_subscribed_channels_bar_title">Pasek z subskrybowanymi kanałami</string>
@@ -1353,6 +1372,11 @@ Efekt uboczny: półka z historią oglądania w zakładce Ty może być ukryta."
     <string name="revanced_hide_toolbar_notification_button_summary_off">Widoczny</string>
     <string name="revanced_hide_toolbar_notification_button_summary_on">Ukryty</string>
     <string name="revanced_hide_toolbar_notification_button_title">Przycisk do powiadomień</string>
+    <string name="revanced_hide_toolbar_search_button_summary_off">Widoczny</string>
+    <string name="revanced_hide_toolbar_search_button_summary_on">"Ukryty
+
+Opcja może nie działać, gdy włączony jest szeroki pasek wyszukiwania."</string>
+    <string name="revanced_hide_toolbar_search_button_title">Przycisk od wyszukiwania</string>
     <string name="revanced_hide_transcript_section_summary_off">Widoczne</string>
     <string name="revanced_hide_transcript_section_summary_on">Ukryte</string>
     <string name="revanced_hide_transcript_section_title">Transkrypcje</string>
@@ -1902,6 +1926,13 @@ Nie pomija to ograniczeń wiekowych, lecz akceptuje je automatycznie."</string>
     <string name="revanced_replace_channel_handle_summary_off">Po nicku</string>
     <string name="revanced_replace_channel_handle_summary_on">Po nazwie</string>
     <string name="revanced_replace_channel_handle_title">Wyświetlanie tytułu kanału</string>
+    <string name="revanced_replace_navigation_button_summary">Zastępuje przycisk nawigacyjny przyciskiem od wyszukiwania.</string>
+    <string name="revanced_replace_navigation_button_target_entry_home">Strona główna</string>
+    <string name="revanced_replace_navigation_button_target_entry_notifications">Powiadomienia</string>
+    <string name="revanced_replace_navigation_button_target_entry_shorts">Shortsy</string>
+    <string name="revanced_replace_navigation_button_target_entry_subscriptions">Subskrypcje</string>
+    <string name="revanced_replace_navigation_button_target_title">Wybierz przycisk do zastąpienia</string>
+    <string name="revanced_replace_navigation_button_title">Zastąp przycisk nawigacji</string>
     <string name="revanced_replace_time_stamp_action_summary_off">Stuknij, aby wyświetlić pozostały czas.</string>
     <string name="revanced_replace_time_stamp_action_summary_on">Stuknij, aby otworzyć menu od prędkości odtwarzania lub jakości.</string>
     <string name="revanced_replace_time_stamp_action_title">Działanie informacji obok czasu</string>
@@ -2348,6 +2379,7 @@ Ograniczenie: tytuły filmów znikają po stuknięciu w nie."</string>
     <string name="revanced_spoof_app_version_target_entry_19_28_42">19.28.42 - Przywraca stary nagłówek playlist</string>
     <string name="revanced_spoof_app_version_target_entry_19_33_37">19.33.37 - Przywraca stare menu szybkości odtwarzania</string>
     <string name="revanced_spoof_app_version_target_entry_20_05_46">20.05.46 - Przywraca funkcjonalność transkrypcji</string>
+    <string name="revanced_spoof_app_version_target_entry_20_13_41">20.13.41 - Przywraca nieskondensowany pasek akcji filmu</string>
     <string name="revanced_spoof_app_version_target_entry_title">Oszukiwana wersja aplikacji</string>
     <string name="revanced_spoof_app_version_target_invalid_toast">Nieprawidłowa oszukiwana wersja aplikacji: %s.</string>
     <string name="revanced_spoof_app_version_target_summary">Wpisz wersję, którą chcesz oszukiwać</string>
@@ -2379,6 +2411,8 @@ Znane problemy:
 Funkcja jest nadal w fazie rozwoju, więc może przerwać się jej działanie w każdej chwili przez zmiany po stronie serwera."</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_creator">"Android Studio
 <small>(Wymagane zalogowanie)</small>"</string>
+    <string name="revanced_spoof_streaming_data_client_entry_android_no_sdk">"Android
+<small>(Bez SDK)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_vr">"Android VR
 <small>(Bez autoryzacji)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_vr_auth">"Android VR
@@ -2386,13 +2420,15 @@ Funkcja jest nadal w fazie rozwoju, więc może przerwać się jej działanie w 
     <string name="revanced_spoof_streaming_data_client_entry_ios_deprecated">"iOS
 <small>(Porzucone)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_ipados">"iPadOS
-<small>(Nieaktualny, bez autoryzacji)</small>"</string>
+<small>(Nieaktualny)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_mweb">"Mobilny przeglądarkowy
-<small>(W fazie rozwoju, bez autoryzacji)</small>"</string>
+<small>(W fazie rozwoju)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_tv">TV</string>
+    <string name="revanced_spoof_streaming_data_client_entry_tv_legacy">"TV
+<small>(Stare)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_tv_simply_no_potoken">"Uproszczony TV <small>(Bez PoToken)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_visionos">"visionOS
-<small>(Niewydany, bez autoryzacji)</small>"</string>
+<small>(Niewydany)</small>"</string>
     <string name="revanced_spoof_streaming_data_default_client_title">Domyślny klient</string>
     <string name="revanced_spoof_streaming_data_failed_forbidden">Nie można przechwycić żadnego ze strumieni klienta.</string>
     <string name="revanced_spoof_streaming_data_failed_forbidden_suggestion">Spróbuj zmienić domyślnego klienta na TV.</string>
@@ -2403,9 +2439,6 @@ Funkcja jest nadal w fazie rozwoju, więc może przerwać się jej działanie w 
 
 AVC obsługuje maksymalnie rozdzielczość 1080p, kodek audio OPUS nie jest dostępny, a odtwarzanie wideo będzie zużywać więcej danych internetowych niż VP9 lub AV1."</string>
     <string name="revanced_spoof_streaming_data_message">Jeśli doświadczasz problemów z odtwarzaniem, włącz \"Oszukuj strumień danych\" w &lt;i&gt;&lt;u&gt;Ustawienia &gt; %s &gt; Pozostałe &gt; Oszukuj strumień danych&lt;/u&gt;&lt;/i&gt;.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_not_available">By wybrać określoną ścieżkę dźwiękową transmisji na żywo, wyłącz \'Automatyczne wymuszanie ścieżki dźwiękowej\'.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_not_available_by_client">Domyślny język dla transmisji na żywo nie jest dostępny w kliencie %s.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_title">Domyślny język dla transmisji na żywo</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_summary_off">Kodeków w filmie</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_summary_on">Jakości filmu</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_title">Priorytet w filmie</string>
@@ -2451,17 +2484,18 @@ Przykład 2:
 • stabilna głośność nie jest dostępna
 • filmy dla dzieci mogą się nie odtwarzać będąc zalogowanym lub w trybie incognito"</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_creator">"• brakuje menu od ścieżki dźwiękowej
-• wyłączenie wymuszania ścieżki dźwiękowej nie jest dostępne
+• wyłączenie wymuszania ścieżki dźwiękowej może nie być dostępne
 • stabilna głośność nie jest dostępna
 • filmy dla dzieci mogą się nie odtwarzać będąc zalogowanym lub w trybie incognito
 • 1080p+, AV1 i HDR nie są wspierane"</string>
+    <string name="revanced_spoof_streaming_data_side_effects_android_no_sdk">• film może się zatrzymać na równo minucie lub być niedostępny w niektórych regionach</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_unplugged">"• Brakuje menu od ścieżki dźwiękowej
 • Stabilna głośność jest niedostępna"</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_vr">"• brakuje menu od ścieżki dźwiękowej
 • stabilna głośność nie jest dostępna
 • filmy dla dzieci mogą się nie odtwarzać będąc zalogowanym lub w trybie incognito"</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_vr_auth">"• brakuje menu od ścieżki dźwiękowej
-• automatyczne wymuszenie ścieżki dźwiękowej nie jest dostępne
+• wyłączenie wymuszania ścieżki dźwiękowej może nie być dostępne
 • stabilna głośność nie jest dostępna
 • filmy dla dzieci mogą się nie odtwarzać będąc zalogowanym lub w trybie incognito"</string>
     <string name="revanced_spoof_streaming_data_side_effects_ios">• Mogą wystąpić problemy z odtwarzaniem (wymagany PoToken)</string>
@@ -2586,7 +2620,7 @@ Obecnie jest w fazie rozwoju i może używać większej ilości zasobów sprzęt
     <string name="revanced_spoof_streaming_data_vr_auth_token_dialog_get_authorization_token_text">Uzyskaj token uwierzytelniający</string>
     <string name="revanced_spoof_streaming_data_vr_auth_token_dialog_message">"By uzyskać token uwierzytelniający dla Android VR, należy zalogować się do YouTube VR za pomocą kodu aktywacyjnego:
 
-1. Kliknij `Uzyskaj token uwierzytelniający', by wygenerować kod aktywacyjny
+1. Kliknij 'Uzyskaj token uwierzytelniający', by wygenerować kod aktywacyjny
 2. Kliknij 'Otwórz stronę', aby przejść do 'https://yt.be/activate'
 3. Wprowadź kod aktywacyjny
 4. Zaloguj się, gdy pojawi się monit. Jeśli masz wiele kont Google, użyj tego, którego używasz w YouTube. Jeśli jesteś już zalogowany, przejdź do następnego kroku
@@ -2662,6 +2696,8 @@ Dostosuj jasność, przesuwając pionowo po lewej stronie ekranu."</string>
 
 Przewiń wideo, przesuwając palcem w poziomie po górnej połowie ekranu."</string>
     <string name="revanced_swipe_seek_title">Gest przewijania</string>
+    <string name="revanced_swipe_speed_and_seek_delay_summary">Opóźnienie w milisekundach przed rozpoznaniem przesunięcia poziomego. Zwiększ tę wartość, jeśli koliduje z gestem szczypania w celu powiększenia.</string>
+    <string name="revanced_swipe_speed_and_seek_delay_title">Opóźnienie gestów prędkości i szukania</string>
     <string name="revanced_swipe_speed_distance_summary">Ilość pikseli do przesunięcia w celu zmiany prędkości odtwarzania filmów. Niższe wartości powodują szybszą zmianę prędkości, wyższe sprawiają, że zmiana jest wolniejsza (1–1000).</string>
     <string name="revanced_swipe_speed_distance_title">Odległość prędkości</string>
     <string name="revanced_swipe_speed_summary_off">Wyłączony</string>
@@ -2693,15 +2729,9 @@ Dostosuj głośność, przesuwając pionowo po prawej stronie ekranu."</string>
 • Wyłączenie tego ustawienia powoduje zwiększenie ilości reklam.
 • Powinieneś wyłączyć to ustawienie jeśli chcesz, by reklamy w filmach były widoczne."</string>
     <string name="revanced_switch_create_with_notifications_button_summary_off">Nie zamienone</string>
-    <string name="revanced_switch_create_with_notifications_button_summary_on">"Zamienione
-
-Notka: włączenie tej opcji wymusza ukrywanie reklam w filmach."</string>
+    <string name="revanced_switch_create_with_notifications_button_summary_on">Zamienione</string>
     <string name="revanced_switch_create_with_notifications_button_title">Zamień przyciski przesyłania i powiadomień</string>
-    <string name="revanced_switch_create_with_notifications_button_user_dialog_message">"Wyłączenie tej opcji może spowodować załadowanie się większej ilości reklam z serwera.
-
-Dodatkowo, reklamy nie będą już blokowane w Shortsach.
-
-Jeśli opcja nie przynosi skutku, spróbuj przełączyć się na tryb incognito."</string>
+    <string name="revanced_switch_create_with_notifications_button_user_dialog_message">Jeśli opcja nie poskutkuje, spróbuj przełączyć się w tryb incognito.</string>
     <string name="revanced_theme_default">Domyślny</string>
     <string name="revanced_third_party_youtube_music_dialog_title">RVX Music</string>
     <string name="revanced_third_party_youtube_music_not_installed_dialog_title">Ostrzeżenie</string>

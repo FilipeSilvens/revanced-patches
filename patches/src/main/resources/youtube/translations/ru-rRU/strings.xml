@@ -171,10 +171,10 @@
     <string name="revanced_custom_filter_summary_on">Пользовательский фильтр включен.</string>
     <string name="revanced_custom_filter_title">Пользовательский фильтр</string>
     <string name="revanced_custom_filter_toast_invalid_syntax">Недопустимый фильтр: %s.</string>
-    <string name="revanced_custom_playback_speed_menu_type_entry_custom_legacy">Свой (Предыдущий)</string>
+    <string name="revanced_custom_playback_speed_menu_type_entry_custom_legacy">Свой (Старый)</string>
     <string name="revanced_custom_playback_speed_menu_type_entry_custom_modern">Свой (Современный)</string>
     <string name="revanced_custom_playback_speed_menu_type_entry_custom_no_theme">Свой (Без темы)</string>
-    <string name="revanced_custom_playback_speed_menu_type_entry_youtube_legacy">YouTube Предыдущий</string>
+    <string name="revanced_custom_playback_speed_menu_type_entry_youtube_legacy">YouTube Старый</string>
     <string name="revanced_custom_playback_speed_menu_type_summary_off">Современный стиль всплывающего меню скорости воспроизведения.</string>
     <string name="revanced_custom_playback_speed_menu_type_summary_on">Пользовательское меню скорости воспроизведения.</string>
     <string name="revanced_custom_playback_speed_menu_type_title">Стиль меню скорости</string>
@@ -232,13 +232,13 @@
     <string name="revanced_disable_ambient_mode_summary_on">Окружающая подсветка отключена.</string>
     <string name="revanced_disable_ambient_mode_title">Отключить окружающую подсветку</string>
     <string name="revanced_disable_auto_audio_tracks_not_available">Чтобы использовать эту функцию, измените  \'Клиент по умолчанию (Подмена потоковых данных)\' на TV, TV Simply или iOS TV.</string>
-    <string name="revanced_disable_auto_audio_tracks_summary_off">Принудительные автоматические звуковые дорожки включены.</string>
+    <string name="revanced_disable_auto_audio_tracks_summary_off">"Принудительные автоматические звуковые дорожки включены."</string>
     <string name="revanced_disable_auto_audio_tracks_summary_on">Принудительные автоматические звуковые дорожки отключены.</string>
     <string name="revanced_disable_auto_audio_tracks_summary_on_disclaimer">"Принудительное автоматическое воспроизведение звуковых дорожек отключено.
 
-У некоторых пользователей это может не работать, если у вас это не работает:
-1. Перейдите в \"Настройки\" - RVX - Разное - Подмена потоковых данных и включите 'Использовать JavaScript-клиент'.
-2. Перейдите в \"Настройки\" - RVX - Разное - Подмена потоковых данных и измените 'Клиент по умолчанию' на 'TV'."</string>
+Это может не работать для некоторых пользователей, если у вас это не работает:
+1. Перейдите в - RVX - Разное - Подмена потоковых данных и включите 'Использовать JavaScript-клиент'.
+2. Перейдите в - RVX - Разное - Подмена потоковых данных и измените 'Клиент по умолчанию' на 'TV'."</string>
     <string name="revanced_disable_auto_audio_tracks_title">Принудительные автоматические звуковые дорожки</string>
     <string name="revanced_disable_auto_captions_summary_off">Принудительные автоматические субтитры включены.</string>
     <string name="revanced_disable_auto_captions_summary_on">Принудительные автоматические субтитры отключены.</string>
@@ -527,6 +527,11 @@
 Если настройка 'Просмотр' повреждена, эта настройка может решить проблему.
 
 Если настройка 'Просмотр' по-прежнему повреждена, даже, после включения или отключения этой настройки, попробуйте очистить данные приложения."</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_summary_off">Отключено. Скорость жеста касания и зажатия активируется независимо от действий пользователя.</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_summary_on">"Включено. Скорость жеста касания и зажатия активируется только при действиях пользователя.
+
+Проблема: Иногда появляется наложение жеста до переключения в полноэкранный режим."</string>
+    <string name="revanced_fix_swipe_tap_and_hold_speed_title">Исправление скорости жеста касания и зажатия</string>
     <string name="revanced_fullscreen_ads_closed_toast">Полноэкранная реклама закрыта.</string>
     <string name="revanced_gemini_cancelled">Резюмирование отменено.</string>
     <string name="revanced_gemini_copy_success">Резюме скопировано в буфер обмена.</string>
@@ -594,9 +599,9 @@
     <string name="revanced_hide_ask_button_summary_off">Кнопка \"Спросить\" отображена.</string>
     <string name="revanced_hide_ask_button_summary_on">Кнопка \"Спросить\" скрыта.</string>
     <string name="revanced_hide_ask_button_title">Скрыть кнопку \"Спросить\"</string>
-    <string name="revanced_hide_ask_section_summary_off">Раздел \"Спросить\" в описании видео показан</string>
-    <string name="revanced_hide_ask_section_summary_on">Раздел \"Спросить\" в описании видео скрыт</string>
-    <string name="revanced_hide_ask_section_title">Скрыть раздел \"Спросить\"</string>
+    <string name="revanced_hide_ask_section_summary_off">Отображена.</string>
+    <string name="revanced_hide_ask_section_summary_on">Скрыта.</string>
+    <string name="revanced_hide_ask_section_title">Секция \"Спросить\"</string>
     <string name="revanced_hide_attributes_section_summary_off">Секция атрибутов (Особенные места, Игры, Музыка) отображена.</string>
     <string name="revanced_hide_attributes_section_summary_on">Секция атрибутов (Особенные места, Игры, Музыка) скрыта.</string>
     <string name="revanced_hide_attributes_section_title">Секция атрибутов</string>
@@ -693,9 +698,9 @@ Shorts
     <string name="revanced_hide_community_posts_subscriptions_summary_off">В подписках отображены.</string>
     <string name="revanced_hide_community_posts_subscriptions_summary_on">В подписках скрыты.</string>
     <string name="revanced_hide_community_posts_subscriptions_title">Посты сообщества в подписках</string>
-    <string name="revanced_hide_contents_section_summary_off">Секция содержимого отображена.</string>
-    <string name="revanced_hide_contents_section_summary_on">Секция содержимого скрыта.</string>
-    <string name="revanced_hide_contents_section_title">Секция содержимого</string>
+    <string name="revanced_hide_creator_section_summary_off">Отображена.</string>
+    <string name="revanced_hide_creator_section_summary_on">Скрыта.</string>
+    <string name="revanced_hide_creator_section_title">Секция \"Создатель\"</string>
     <string name="revanced_hide_creator_store_shelf_summary_off">Полка творчество отображена.</string>
     <string name="revanced_hide_creator_store_shelf_summary_on">Полка творчество скрыта.</string>
     <string name="revanced_hide_creator_store_shelf_title">Полка творчество под видео</string>
@@ -726,6 +731,12 @@ Shorts
     <string name="revanced_hide_expandable_shelf_summary_off">Расширяемые полки отображены.</string>
     <string name="revanced_hide_expandable_shelf_summary_on">Расширяемые полки скрыты.</string>
     <string name="revanced_hide_expandable_shelf_title">Расширяемые полки</string>
+    <string name="revanced_hide_explore_podcast_section_summary_off">Отображена.</string>
+    <string name="revanced_hide_explore_podcast_section_summary_on">Скрыта.</string>
+    <string name="revanced_hide_explore_podcast_section_title">Секция обзора подкаста</string>
+    <string name="revanced_hide_featured_section_summary_off">Отображена.</string>
+    <string name="revanced_hide_featured_section_summary_on">Скрыта.</string>
+    <string name="revanced_hide_featured_section_title">Секция избранного контента</string>
     <string name="revanced_hide_feed_captions_button_off">Кнопка \"Субтитры\" в ленте отображена.</string>
     <string name="revanced_hide_feed_captions_button_on">Кнопка \"Субтитры\" в ленте скрыта.</string>
     <string name="revanced_hide_feed_captions_button_title">Кнопка \"Субтитры\" в ленте</string>
@@ -761,21 +772,27 @@ Shorts
     <string name="revanced_hide_handle_summary_off">Псевдоним отображен.</string>
     <string name="revanced_hide_handle_summary_on">Псевдоним скрыт.</string>
     <string name="revanced_hide_handle_title">Скрыть псевдоним</string>
+    <string name="revanced_hide_how_this_was_made_section_summary_off">Отображена.</string>
+    <string name="revanced_hide_how_this_was_made_section_summary_on">Скрыта.</string>
+    <string name="revanced_hide_how_this_was_made_section_title">Секция \"Как этот контент был создан\"</string>
     <string name="revanced_hide_hype_button_summary_off">Кнопка \"Шумиха\" отображена.</string>
     <string name="revanced_hide_hype_button_summary_on">Кнопка \"Шумиха\" скрыта.</string>
     <string name="revanced_hide_hype_button_title">Кнопка \"Шумиха\"</string>
-    <string name="revanced_hide_hype_points_summary_off">Отображаются места обмана.</string>
-    <string name="revanced_hide_hype_points_summary_on">Места обмана скрыты.</string>
-    <string name="revanced_hide_hype_points_title">Скрыть место обмана</string>
+    <string name="revanced_hide_hype_points_section_summary_off">Отображена.</string>
+    <string name="revanced_hide_hype_points_section_summary_on">Скрыта.</string>
+    <string name="revanced_hide_hype_points_section_title">Секция баллов \"хайпа\"</string>
+    <string name="revanced_hide_hype_points_summary_off">Очки голосов показаны</string>
+    <string name="revanced_hide_hype_points_summary_on">Очки голосов скрыты</string>
+    <string name="revanced_hide_hype_points_title">Скрыть очки голосов</string>
     <string name="revanced_hide_image_search_button_summary_off">Кнопка поиска изображений отображена.</string>
     <string name="revanced_hide_image_search_button_summary_on">Кнопка поиска изображений скрыта.</string>
     <string name="revanced_hide_image_search_button_title">Кнопка поиска изображений</string>
     <string name="revanced_hide_image_shelf_summary_off">Секция изображений отображена.</string>
     <string name="revanced_hide_image_shelf_summary_on">Секция изображений скрыта.</string>
     <string name="revanced_hide_image_shelf_title">Секция изображений</string>
-    <string name="revanced_hide_info_cards_section_summary_off">Секции информационных карт отображены.</string>
-    <string name="revanced_hide_info_cards_section_summary_on">Секции информационных карт скрыты.</string>
-    <string name="revanced_hide_info_cards_section_title">Секции информационных карт</string>
+    <string name="revanced_hide_info_cards_section_summary_off">Раздел информационных карточек в описании видео показан</string>
+    <string name="revanced_hide_info_cards_section_summary_on">Раздел информационных карточек в описании видео скрыт</string>
+    <string name="revanced_hide_info_cards_section_title">Скрыть раздел информационных карточек</string>
     <string name="revanced_hide_info_cards_summary_off">Информационные карточки отображены.</string>
     <string name="revanced_hide_info_cards_summary_on">Информационные карточки скрыты.</string>
     <string name="revanced_hide_info_cards_title">Информационные карточки</string>
@@ -907,9 +924,9 @@ Shorts
     <string name="revanced_hide_player_flyout_menu_ambient_mode_title">Меню режима окружающей подсветки</string>
     <string name="revanced_hide_player_flyout_menu_audio_track_not_available">"Меню звуковых дорожек скрыто.
 
-To show the Audio track menu:
-1. Перейдите в \"Настройки\" - RVX - Разное - Подделка потоковых данных и включите 'Использовать JavaScript-клиент'.
-2. Перейдите в \"Настройки\" - RVX - Разное - Подделка потоковых данных и измените 'Клиент по умолчанию' на 'TV'."</string>
+Чтобы отобразить меню звуковых дорожек:
+1. Перейдите в Настройки - RVX - Разное - Подмена потоковых данных и включите 'Использовать JavaScript-клиент'.
+2. Перейдите в Настройки - RVX - Разное - Подмена потоковых данных и измените 'Клиент по умолчанию' на 'TV'."</string>
     <string name="revanced_hide_player_flyout_menu_audio_track_summary_off">Меню \"Звуковая дорожка\" отображено.</string>
     <string name="revanced_hide_player_flyout_menu_audio_track_summary_on">Меню \"Звуковая дорожка\" скрыто.</string>
     <string name="revanced_hide_player_flyout_menu_audio_track_title">Меню \"Звуковая дорожка\"</string>
@@ -979,9 +996,9 @@ To show the Audio track menu:
     <string name="revanced_hide_playlist_button_summary_off">Кнопка \"Сохранить в плейлист\" отображена.</string>
     <string name="revanced_hide_playlist_button_summary_on">Кнопка \"Сохранить в плейлист\" скрыта.</string>
     <string name="revanced_hide_playlist_button_title">Кнопка \"Сохранить в плейлист\"</string>
-    <string name="revanced_hide_podcast_section_summary_off">Секции подкастов отображены.</string>
-    <string name="revanced_hide_podcast_section_summary_on">Секции подкастов скрыты.</string>
-    <string name="revanced_hide_podcast_section_title">Секции подкастов</string>
+    <string name="revanced_hide_podcast_section_summary_off">Раздел \"Другие выпуски подкаста\" в описании видео показан</string>
+    <string name="revanced_hide_podcast_section_summary_on">Раздел \"Другие выпуски подкаста\" в описании видео скрыт</string>
+    <string name="revanced_hide_podcast_section_title">Скрыть раздел \"Другие выпуски подкаста\"</string>
     <string name="revanced_hide_preview_comment_off">Предпросмотр комментария отображен.</string>
     <string name="revanced_hide_preview_comment_on">Предпросмотр комментария скрыт.</string>
     <string name="revanced_hide_preview_comment_title">Предпросмотр комментария</string>
@@ -1296,6 +1313,9 @@ To show the Audio track menu:
     <string name="revanced_hide_stop_ads_button_summary_off">Кнопка \"Убрать рекламу\" отображена.</string>
     <string name="revanced_hide_stop_ads_button_summary_on">Кнопка \"Убрать рекламу\" скрыта.</string>
     <string name="revanced_hide_stop_ads_button_title">Скрыть \"Убрать рекламу\"</string>
+    <string name="revanced_hide_subscribe_button_summary_off">Отображена.</string>
+    <string name="revanced_hide_subscribe_button_summary_on">Скрыта.</string>
+    <string name="revanced_hide_subscribe_button_title">Кнопка \"Подписаться\"</string>
     <string name="revanced_hide_subscribed_channels_bar_summary_off">Панель подписок отображена.</string>
     <string name="revanced_hide_subscribed_channels_bar_summary_on">Панель подписок скрыта.</string>
     <string name="revanced_hide_subscribed_channels_bar_title">Панель подписок</string>
@@ -2351,22 +2371,26 @@ To show the Audio track menu:
 Функция находится в разработке, и может перестать работать из-за изменений на стороне сервера."</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_creator">"Android Studio
 <small>(Требуется вход)</small>"</string>
+    <string name="revanced_spoof_streaming_data_client_entry_android_no_sdk">"Android
+<small>(без SDK)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_vr">"Android VR"</string>
     <string name="revanced_spoof_streaming_data_client_entry_android_vr_auth">"Android VR
 <small>(Необходима авторизация)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_ios_deprecated">iOS.\n<small>(устаревшее)</small>
     </string>
     <string name="revanced_spoof_streaming_data_client_entry_ipados">"iPadOS
-<small>(Просрочено, Не авторизовано)</small>"</string>
-    <string name="revanced_spoof_streaming_data_client_entry_mweb">"Мобильный Интернет
-<small>(WIP, без авторизации)</small>"</string>
+<small>(Устаревший)</small>"</string>
+    <string name="revanced_spoof_streaming_data_client_entry_mweb">"Web
+<small>(В разработке)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_tv">ТВ
 <small>(В разработке)</small>
     </string>
+    <string name="revanced_spoof_streaming_data_client_entry_tv_legacy">"TV
+<small>(Старый)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_tv_simply_no_potoken">"ТВ Простой
 <small>(Без PoToken)</small>"</string>
     <string name="revanced_spoof_streaming_data_client_entry_visionos">"visionOS
-<small>(Не релизный, Не авторизован)</small>"</string>
+<small>(Не выпускавшийся)</small>"</string>
     <string name="revanced_spoof_streaming_data_default_client_title">Клиент по умолчанию</string>
     <string name="revanced_spoof_streaming_data_failed_forbidden">Не получены клиентские потоки.</string>
     <string name="revanced_spoof_streaming_data_failed_forbidden_suggestion">Возможно, Вы не вошли в систему.</string>
@@ -2379,9 +2403,6 @@ To show the Audio track menu:
 
 Максимальное разрешение AVC - 1080p. Кодек Opus недоступен. Потребление трафика больше, чем при VP9 или AV1."</string>
     <string name="revanced_spoof_streaming_data_message">Если у вас возникли проблемы с воспроизведением, включите параметр \"Замена потоковых данных\" в Настройках/Разное/Замена потоковых данных.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_not_available">Чтобы выбрать язык звукового потока, отключите \'Принудительные звуковые авто дорожки\'.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_not_available_by_client">Язык аудио потока по умолчанию не доступен для %s.</string>
-    <string name="revanced_spoof_streaming_data_no_auth_language_title">Язык аудио потока по умолчанию</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_summary_off">Приоритет качества видео отключен.</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_summary_on">Приоритет качества видео включен.</string>
     <string name="revanced_spoof_streaming_data_prioritize_video_quality_title">Приоритет качества видео</string>
@@ -2422,19 +2443,19 @@ VP9 более продвинутый кодек, чем AVC, но некото�
 • Функция принудительного отключения автоматического выбора аудиодорожек недоступна.
 • Стабильная громкость недоступна.
 • Детские видеоролики могут не воспроизводиться при выходе из системы или в режиме инкогнито."</string>
-    <string name="revanced_spoof_streaming_data_side_effects_android_creator">"• Отсутствует меню звуковых дорожек.
-• Функция отключения принудительного автоматического воспроизведения звуковых дорожек недоступна.
-• Стабильная громкость недоступна.
-• Детские видеоролики могут не воспроизводиться при выходе из системы или в режиме инкогнито.
-• Форматы 1080p+, AV1 и HDR не поддерживаются."</string>
+    <string name="revanced_spoof_streaming_data_side_effects_android_creator">"• Аудио меню пропадет.
+• Стабильная громкость не доступна.
+• Детские видео могут не проигрываться без логина или в режиме инкогнито.
+• 1080p+, AV1, HDR не поддерживаются."</string>
+    <string name="revanced_spoof_streaming_data_side_effects_android_no_sdk">• Видео может останавливаться в 1:00, или быть недоступным в некоторых регионах.</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_unplugged">• Отсутствует меню \"Аудио\".\n• Отсутствует меню \"Постоянный уровень громкости\".</string>
     <string name="revanced_spoof_streaming_data_side_effects_android_vr">"• Аудио меню пропадет.
 • Стабильная громкость не доступна.
 • Детские видео могут не проигрываться без логина или в режиме инкогнито."</string>
-    <string name="revanced_spoof_streaming_data_side_effects_android_vr_auth">"• Отсутствует меню аудиодорожки.
-• Отключение принудительных авто дорожек звука недоступно.
+    <string name="revanced_spoof_streaming_data_side_effects_android_vr_auth">"• Отсутствует меню звуковой дорожки.
+• Отключение принудительного автоматического выбора аудиодорожек может быть недоступна.
 • Стабильная громкость недоступна.
-• Детские видео не проигрываются при выходе из системы или в режиме инкогнито."</string>
+• Детские видеоролики могут не воспроизводиться при выходе из системы или в режиме инкогнито."</string>
     <string name="revanced_spoof_streaming_data_side_effects_ios">• Фильмы или платные видео могут не воспроизводиться.</string>
     <string name="revanced_spoof_streaming_data_side_effects_ios_compatibility">• Видео может заканчиваться на 1 секунду раньше.\n• Аудиокодек OPUS может не поддерживаться.</string>
     <string name="revanced_spoof_streaming_data_side_effects_ios_deprecated">• Целые диапазоны ASN/IP могут блокироваться сервером.</string>
@@ -2631,6 +2652,8 @@ uBlock Origin обнаружил обход этой проблемы, вклю�
     <string name="revanced_swipe_seek_summary_off">Управление перемоткой видео жестом отключено.</string>
     <string name="revanced_swipe_seek_summary_on">Управление перемоткой видео жестом включено.\nДля перемотки видео проведите горизонтально по верхней половине экрана.</string>
     <string name="revanced_swipe_seek_title">Управление перемоткой видео жестом</string>
+    <string name="revanced_swipe_speed_and_seek_delay_summary">Задержка в миллисекундах перед распознаванием горизонтального пролистывания. Увеличьте это значение, если оно мешает масштабированию сведением или разведением пальцев.</string>
+    <string name="revanced_swipe_speed_and_seek_delay_title">Задержка жестов скорости и поиска</string>
     <string name="revanced_swipe_speed_distance_summary">Количество пикселей, которое нужно сдвинуть, чтобы изменить скорость воспроизведения. Низкие значения ускоряют изменение скорости, более высокие — замедляют (1 - 1000).</string>
     <string name="revanced_swipe_speed_distance_title">Чувствительность жеста скорости воспроизведения</string>
     <string name="revanced_swipe_speed_summary_off">Управление скоростью воспроизведения жестом отключено.</string>
@@ -2656,15 +2679,9 @@ uBlock Origin обнаружил обход этой проблемы, вклю�
     <string name="revanced_swipe_volume_title">Жест изменения громкости</string>
     <string name="revanced_switch_create_with_notifications_button_summary">Примечание:\n• Если подмена кнопки не происходит, перезагрузите устройство.\n• Отключение этого параметра загружает больше рекламы со стороны сервера.\n• Чтобы видеореклама была видна, следует отключить этот параметр.</string>
     <string name="revanced_switch_create_with_notifications_button_summary_off">Кнопки \"Создать\" и \"Уведомления\" не поменяны местами.</string>
-    <string name="revanced_switch_create_with_notifications_button_summary_on">"Кнопки \"Создать\" и \"Уведомления\" поменяны местами.
-
-Примечание: Включение опции принудительно скрывает видеорекламу."</string>
+    <string name="revanced_switch_create_with_notifications_button_summary_on">Кнопка \"Создать\" заменена на \"Уведомления\".</string>
     <string name="revanced_switch_create_with_notifications_button_title">Подмена кнопки \"Создать\" на \"Уведомления\"</string>
-    <string name="revanced_switch_create_with_notifications_button_user_dialog_message">"Отключение этого параметра может привести к загрузке большего количества рекламы с сервера.
-
-Кроме того, реклама больше не будет блокироваться в Shorts.
-
-Если эта настройка не вступила в силу, попробуйте перейти в режим инкогнито."</string>
+    <string name="revanced_switch_create_with_notifications_button_user_dialog_message">Если этот параметр не вступил в силу, попробуйте в режиме инкогнито.</string>
     <string name="revanced_theme_default">По умолчанию</string>
     <string name="revanced_third_party_youtube_music_dialog_title">RVX Music</string>
     <string name="revanced_third_party_youtube_music_not_installed_dialog_title">Предупреждение</string>
@@ -2677,7 +2694,7 @@ uBlock Origin обнаружил обход этой проблемы, вклю�
 ═══════════════
 1. Нажмите \"Авторизация\"\", чтобы открыть страницу входа в WebView.
 2. Войдите в свою учётную запись Google.
-3. Воспроизведите любое видео с поддержкой авто-перевода субтитров.
+3. Проиграйте любое видео с поддержкой авто-перевода субтитров.
 4. Включите автоматический перевод субтитров и проверьте, работает ли он.
 4-1. Если авто-перевод субтитров не работает, переключитесь на другое видео с поддержкой авто-перевода субтитров и повторите шаг 4.
 5. Нажмите три точки на панели инструментов, чтобы открыть контекстное меню.
@@ -2688,14 +2705,14 @@ uBlock Origin обнаружил обход этой проблемы, вклю�
 Без авторизации
 ═══════════════
 1. Нажмите \"Без авторизации\", чтобы открыть видео в WebView.
-2. Воспроизведите видео не менее 3 секунд.
+2. Проиграйте видео не менее 3 секунд.
 3. Нажмите три точки на панели инструментов, чтобы открыть контекстное меню.
 4. Нажмите \"Получить файлы куки\".
 5. Нажмите \"Копировать\", чтобы скопировать файлы куки.
 6. Закройте WebView и вставьте скопированные файлы куки в настройки \"Файлы куки для расшифровки\".
 
 Отказ от ответственности:
-Файлы куки, созданные без входа в систему, могут быть недействительными или могут потребовать времени для того, чтобы стать доступными для API Transcript."</string>
+Файлы куки, созданные без авторизации, могут не работать или потребуется время, чтобы стать доступными для API Transcript."</string>
     <string name="revanced_transcript_cookies_dialog_no_auth_text">Без авторизации</string>
     <string name="revanced_transcript_cookies_dialog_title">Экспорт расшифровок куки</string>
     <string name="revanced_transcript_cookies_summary">Куки для запросов расшифровок API.</string>
